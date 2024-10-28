@@ -3,7 +3,7 @@ entries:
   deployment-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-28T16:52:00.8293361+01:00"
+    created: "2024-10-28T17:45:24.2791636+01:00"
     description: A Helm chart for Kubernetes
     digest: 8cd445a9292a53f47ae46635ffb0d0f400965d65fbee8bda8e69d90a3c1ab780
     name: deployment-chart
@@ -14,12 +14,12 @@ entries:
   ingress-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-28T16:52:00.8298591+01:00"
+    created: "2024-10-28T17:45:24.2802102+01:00"
     description: A Helm chart for Kubernetes
-    digest: eadb538b0c0f81e6b80a17f5bf8366c1a2993e0a7d21873b286d3bf2e41376c0
+    digest: e15015e6da83b9aa0c3b6122415d25065f141b81cb98c8e7b07a1753fe2092c8
     name: ingress-chart
     type: application
     urls:
     - ingress-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-28T16:52:00.8287983+01:00"
+generated: "2024-10-28T17:45:24.2781179+01:00"
