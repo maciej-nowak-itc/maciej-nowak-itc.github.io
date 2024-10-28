@@ -4,6 +4,10 @@ deployment-chart:
     tag: stable
   service:
     port: 8080
+  serviceAccount:
+    create: false
+  autoscaling:
+    enabled: false
 
 ingress-chart:
   hosts:
