@@ -9,7 +9,7 @@ entries:
     name: deployment-chart
     type: application
     urls:
-    - deployment-chart-0.1.0.tgz
+    - https://maciej-nowak-itc.github.io/deployment-chart-0.1.0.tgz
     version: 0.1.0
   ingress-chart:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: ingress-chart
     type: application
     urls:
-    - ingress-chart-0.1.0.tgz
+    - https://maciej-nowak-itc.github.io/ingress-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2024-10-28T17:45:24.2781179+01:00"

@@ -1,0 +1,9 @@
+deployment-chart:
+  image:
+    repository: custom-nginx
+    tag: stable
+
+ingress-chart:
+  hosts:
+    - name: custom1.com
+    - name: custom2.com
