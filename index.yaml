@@ -3,23 +3,23 @@ entries:
   deployment-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-28T21:52:24.5961187+01:00"
+    created: "2024-10-28T21:58:06.4034451+01:00"
     description: A Helm chart for Kubernetes
-    digest: 8cd445a9292a53f47ae46635ffb0d0f400965d65fbee8bda8e69d90a3c1ab780
+    digest: 4680a971d8a63187e876a9c4e0f2c6099a34b2a4987e5c474a9970fca054c355
     name: deployment-chart
     type: application
     urls:
-    - deployment-chart-0.1.0.tgz
+    - https://maciej-nowak-itc.github.io/deployment-chart-0.1.0.tgz
     version: 0.1.0
   ingress-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-28T21:52:24.5971495+01:00"
+    created: "2024-10-28T21:58:06.4039713+01:00"
     description: A Helm chart for Kubernetes
-    digest: ba4ab55e0a3d308eaccee36168378493880eab70c3cca9ac76801f729cbb9943
+    digest: 415f9a1ae34ee55af232d1e1b610de970108e2bba4b4604fb703a9df34e72023
     name: ingress-chart
     type: application
     urls:
-    - ingress-chart-0.1.0.tgz
+    - https://maciej-nowak-itc.github.io/ingress-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-28T21:52:24.5958336+01:00"
+generated: "2024-10-28T21:58:06.4029349+01:00"
