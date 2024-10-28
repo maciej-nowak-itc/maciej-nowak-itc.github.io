@@ -1,0 +1,9 @@
+dependencies:
+- name: deployment-chart
+  repository: https://maciej-nowak-itc.github.io/
+  version: 0.1.0
+- name: ingress-chart
+  repository: https://maciej-nowak-itc.github.io/
+  version: 0.1.0
+digest: sha256:86970b3020948f406962d7eeda66227ae9a4feddd8ba8dd105a26c7ec9ab11bc
+generated: "2024-10-28T21:48:02.3325815+01:00"

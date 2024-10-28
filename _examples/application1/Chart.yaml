@@ -3,8 +3,8 @@ name: application1
 version: 1.0.0
 dependencies:
 - name: deployment-chart
-  version: 1.0.0
-  repository: "https://maciej-nowak-itc.github.io/my-helm-repo"
+  version: 0.1.0
+  repository: "https://maciej-nowak-itc.github.io/"
 - name: ingress-chart
-  version: 1.0.0
-  repository: "https://maciej-nowak-itc.github.io/my-helm-repo"
+  version: 0.1.0
+  repository: "https://maciej-nowak-itc.github.io/"

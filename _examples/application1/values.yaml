@@ -2,6 +2,8 @@ deployment-chart:
   image:
     repository: custom-nginx
     tag: stable
+  service:
+    port: 8080
 
 ingress-chart:
   hosts:
